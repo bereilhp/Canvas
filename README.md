@@ -1,2 +1,2 @@
 # Canvas
-Playing around with HTML, JavaScript and Canvas
+Playing around with HTML, CSS, JavaScript and Canvas
