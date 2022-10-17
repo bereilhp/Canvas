@@ -53,10 +53,6 @@ function hola(){
 
     a.fillRect(580, 100, 50, 20);
 
-
-   
-
-
 }
 
 window.onload = hola;
